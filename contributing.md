@@ -9,6 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Only has awesome items. Awesome lists are curations of the best, not everything.
+- Do not add items that answer questions like "oh dear, but where would we put all the people?", "but doesn't life give meaning to life?" and so on. As Aubrey de Grey said at RAADfest 2020: "We should not dignify such idiocy by acknowledgment anymore."
 - Each item of information should be accompanied by a short description. The first character should be uppercase, and the description should end in a dot. It should be an objective description and not a tagline or marketing blurb.
 - The information that you recommend:
   - provides adequate evidence;
