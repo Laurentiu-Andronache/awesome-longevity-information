@@ -5,6 +5,8 @@
 > As we do not have unlimited time on this planet yet, only [information transmitted in an optimal form]((contributing.md)) should become part of this list.
 > 
 > We should avoid overlapping content unless it comes in a different format (audio-only, video, writing). For example, both [this article](https://www.eurekalert.org/pub_releases/2020-09/si-cdd090920.php) and the [original research that it draws upon](http://genesdev.cshlp.org/content/34/19-20/1330) are helpful to understand Metformin's mechanism of action, but in this case, I would make a subjective call and only add the article to this list.
+>
+> Removing/replacing items that are outdated or not optiomal anymore is as valuable as adding new ones.
 > 
 > Short-term objective: someone going through the information from this list should improve his understanding of aging and become able to devise an actual program to increase his health-span.
 > 
