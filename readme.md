@@ -34,6 +34,7 @@ Articles that summarize the current state of understanding on a topic.
 Some of the most promising interventions to slow ageing based on the robustness of pre/clinical trials.
 - [Revisiting the Hallmarks of Aging to Identify Markers of Biological
 Age](https://link.springer.com/article/10.14283/jpad.2019.50) - Putative biomarkers of aging for each of the nine hallmarks.
+- [DNA Methylation Clocks and Their Predictive Capacity for Aging Phenotypes and Healthspan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376380/) - Comparison between DNA methylation clocks.
 
 
 ## Videos
